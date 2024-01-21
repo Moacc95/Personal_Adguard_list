@@ -1,0 +1,39 @@
+##  ||example.org^:bloque l’accès au domaine example.org et à tous ses sous-domaines ;
+##  @@||example.org^:débloque l’accès au domaine example.org et à tous ses sous-domaines ;
+##  127.0.0.1 example.org:AdGuard Home va retourner l'adresse 127.0.0.1 au domaine example.org (mais pas aux sous-domaines) ;
+##! Voici un commentaire.:juste un commentaire ;
+### Aussi un commentaire.:juste un commentaire ;
+##  /REGEX/:bloque l’accès aux domaines correspondants à l'expression régulière spécifiée .
+
+
+@@||api-partner.spotify.com^$important #déblocage spotify
+@@||nintendo.fr^$important # déblocage Nintendo
+@@||international-gfe.download.nvidia.com^$important
+@@||events.gfe.nvidia.com^$important
+@@||expressvpn.com^$important
+@@||duckdns.org^$important
+@@||fonts.gstatic.com^$important
+@@||www.anrdoezrs.net^$important # redirection igraal
+@@||cj.dotomi.com^$important # redirection igraal
+@@||expressapisv2.net^$important
+@@||domotibox.duckdns.org^$important
+@@||vamamobox.duckdns.org^$important
+@@||ea.com^$important
+@@||pole-emploi.intra^$important
+@@||skype.com^$important
+@@||microsoft.com^$important
+@@||msftconnecttest.com^$important
+@@||teamviewer.com^$important
+@@||sonos.com^$important
+@@||amazon.com^$client='192.168.50.100'
+@@||playstation.com^$client='PS5'
+@@||playstation.net^$client='PS5'
+@@||dl.playstation.net^$client='PS5'
+@@||tf1.fr^$important
+@@||apple.com^$important
+@@||avs-alexa-14-eu.amazon.com^$important
+@@||avs-alexa-18-eu.amazon.com^$important
+@@||embeddedassistant.googleapis.com^$important
+@@||routerfeedback.asus.com^$important
+@@||playstation.com^$important
+||updatepreciseuberinfo-program.info^$important

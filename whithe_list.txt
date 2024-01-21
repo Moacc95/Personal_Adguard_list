@@ -16,8 +16,6 @@
 @@||www.anrdoezrs.net^$important # redirection igraal
 @@||cj.dotomi.com^$important # redirection igraal
 @@||expressapisv2.net^$important
-@@||domotibox.duckdns.org^$important
-@@||vamamobox.duckdns.org^$important
 @@||ea.com^$important
 @@||pole-emploi.intra^$important
 @@||skype.com^$important
@@ -26,14 +24,17 @@
 @@||teamviewer.com^$important
 @@||sonos.com^$important
 @@||amazon.com^$client='192.168.50.100'
-@@||playstation.com^$client='PS5'
-@@||playstation.net^$client='PS5'
-@@||dl.playstation.net^$client='PS5'
+
+## Playstation
+@@||playstation.net^$important
+@@||dl.playstation.net^$important
+@@||playstation.com^$important
+
 @@||tf1.fr^$important
 @@||apple.com^$important
 @@||avs-alexa-14-eu.amazon.com^$important
 @@||avs-alexa-18-eu.amazon.com^$important
 @@||embeddedassistant.googleapis.com^$important
 @@||routerfeedback.asus.com^$important
-@@||playstation.com^$important
+
 ||updatepreciseuberinfo-program.info^$important

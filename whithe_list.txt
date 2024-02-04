@@ -31,7 +31,7 @@
 @@||playstation.com^$important
 
 @@||tf1.fr^$important
-@@||apple.com^$important
+@@||console.aws.amazon.com^$important
 @@||avs-alexa-14-eu.amazon.com^$important
 @@||avs-alexa-18-eu.amazon.com^$important
 @@||embeddedassistant.googleapis.com^$important

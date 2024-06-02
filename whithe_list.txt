@@ -39,4 +39,8 @@
 @@||embeddedassistant.googleapis.com^$important
 @@||routerfeedback.asus.com^$important
 
+@@||radarr.servarr.com
+@@||servarr.com
+
+
 ||updatepreciseuberinfo-program.info^$important

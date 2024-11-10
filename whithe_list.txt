@@ -44,6 +44,7 @@
 @@||api.radarr.video
 @@||radarr.video
 @@||indexers.prowlarr.com
+@@||api.gouv.fr
 
 
 ||updatepreciseuberinfo-program.info^$important
